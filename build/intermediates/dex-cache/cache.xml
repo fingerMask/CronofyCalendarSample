@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f4e7adebf49e683db82fb6efac2caaf3d768b8d4">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.squareup.leakcanary-leakcanary-android-1.3_0a221f1db98085158c44471618c9f3b9da9a7b6b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_07151bfd6a558f3c5855d3a4cac6f4e7a13bbf3a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_37a7e8439f3e391e08c59165fc8c9bc75dd837bc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d7853c6b5f5188017e11c970809c8d981d414689">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-0.2.0_eb4e407e6d428ba01dfdad35f5b6421ed000ce48/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_d978fedf1611e4f8c3350d4d21fc2790b057b464/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.0.1_87c3a7265ca37603dec8b59a3e9c9102b14bcda9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.2/a60c039ba54c73d1133b72178e1b04133c73d13d/adapter-rxjava-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a60c039ba54c73d1133b72178e1b04133c73d13d">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.0.2_6f890aaff4d4ed0940e840889a7ccf8cb9c6c9d7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5adac47ebf9378e3149b1227853966c853748f38">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4d309a33f1228680f29a45dcf0a324c7fa2ac42f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-13.0_73b17a097a0156e6f25b6f6111ff3b61b4ec84ec/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/Documents/android/develop/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_38a477926f24f9fc3bf11e8d1c20c05ea86225e2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_79e911b740a4d84ea5540c3e7dd811bbe30c7991/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_3d12cc2cc13fe2e7acc7b9150fca02efff58424c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.2.0/6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c/okhttp-urlconnection-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.2.0_3ec6d129a608849578e6fc7770d3d632a029ac49/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_644b0fd5d9b177df89208775cec7bf4e76164f0e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.3/632482a61ad24b7ec864072945d221369f9a606/leakcanary-watcher-1.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0632482a61ad24b7ec864072945d221369f9a606">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/leakcanary-watcher-1.3_795ac5ce7d9f3be8509af6d11ea058c9c92c7350/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_0b03e43f0ab94539a1e99c4c17e63bfc9b419aef/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_e5d2f6833f28273bc5a6a1a77fe717c68ddb649f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="32ec4b6fbed9cfd97444db4754f7c70cc0e2e4bb">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1a14556a72be06dc386788e2f442de0b0c08248b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_9ae1b11641b4283deef257bbcc4437d150b03afd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_4eac07f3abcd1ebdaf31660b2915dc713f28bd5c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_a33490380a9df0894a026bbdbca53ae6fb599041/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.3/c5399b18a672f7973c8a9b9d6b731a3a36e590cc/leakcanary-analyzer-1.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c5399b18a672f7973c8a9b9d6b731a3a36e590cc">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/leakcanary-analyzer-1.3_3d73b65e887ec3ce3299dc2da2d77506162a4618/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/.gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/2.4.2/1f875e143b83cf04899dd6db12765fe9ba483656/timber-2.4.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1f875e143b83cf04899dd6db12765fe9ba483656">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/timber-2.4.2_03ad081bf625af47d0407dfc2555492fe71895c4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_b92f515542732c5729f967f5e59083ea371dcc4e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/1.1/b7b2e61ee1ad2d1ac6ae3122de9c940fb0d0e635/haha-1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b7b2e61ee1ad2d1ac6ae3122de9c940fb0d0e635">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/haha-1.1_b27b015e2c430682ad447d591c42c583eeb389f0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_2b91759b2e84a0c4d2c02ba4b914cb8c5e88f908/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava-math/1.0.0/5efd0e3928c33c74bbc05d7425e3a4652b8fc0dc/rxjava-math-1.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5efd0e3928c33c74bbc05d7425e3a4652b8fc0dc">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-math-1.0.0_dae61f503937655cd05564be09057bfb642279a0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chentao/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.1/b494968f6050d494de55dc3ce005e59c7eb40012/rxjava-1.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b494968f6050d494de55dc3ce005e59c7eb40012">
+        <dex dex="/Users/chentao/Documents/android/github/mine/CronofyCalendarSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.1_0e8c069ad9105113a21773d1b3038c7b062182c4/classes.dex" />
+    </item>
+
+</items>
