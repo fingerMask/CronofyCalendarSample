@@ -21,6 +21,7 @@ import java.io.IOException;
 
 import butterknife.ButterKnife;
 import butterknife.OnClick;
+import hugo.weaving.DebugLog;
 import retrofit2.adapter.rxjava.HttpException;
 import rx.Subscriber;
 import rx.android.schedulers.AndroidSchedulers;
@@ -95,6 +96,7 @@ public class CalendarActivity extends BaseActivity {
     /**
      * 获取Event列表
      */
+    @DebugLog
     private void listEvents() {
         CalenderApi calenderApi = CalenderService.createCalenderService(PrefHelper.getAccessToken(MainApp.get()));
         calenderApi.getEventList("2016-05-01", "2016-06-05")
@@ -122,11 +124,15 @@ public class CalendarActivity extends BaseActivity {
                         if (eventBean != null) {
                             Timber.d("page current %d, total %d", eventBean.pages.current, eventBean.pages.total);
                             for(EventItem eventItem : eventBean.events){
+                                Timber.d("****************************************");
                                 Timber.d("calendar_id = %s", eventItem.calendar_id);
                                 Timber.d("description = %s", eventItem.description);
                                 Timber.d("summary = %s", eventItem.summary);
                                 Timber.d("start = %s", eventItem.start.toString());
                                 Timber.d("end = %s", eventItem.end.toString());
+                                Timber.d("event_uid = %s", eventItem.event_uid);
+                                Timber.d("participation_status = %s", eventItem.participation_status);
+                                Timber.d("transparency = %s", eventItem.transparency);
                             }
                         }
 

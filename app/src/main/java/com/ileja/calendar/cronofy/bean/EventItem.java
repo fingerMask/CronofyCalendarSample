@@ -15,5 +15,4 @@ public class EventItem {
     public boolean deleted;
     public String transparency;
     public String participation_status;
-    public String categories;
 }

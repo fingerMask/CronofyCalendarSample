@@ -46,9 +46,20 @@ public interface CalenderApi {
     @POST("/oauth/token")
     Observable<AccessTokenResponse> revokeToken(@Body RevokeTokenBean revokeTokenBean);
 
+    /**
+     * 获取日历列表
+     * @return
+     */
     @GET("/v1/calendars")
     Observable<CalendarBean> getCalendarList();
 
+    /**
+     * 获取日历时间列表
+     * @param fromDate
+     * @param toDate
+     * @return
+     */
     @GET("/v1/events?tzid=Etc/UTC")
     Observable<EventBean> getEventList(@Query("from") String fromDate, @Query("to") String toDate);
+
 }

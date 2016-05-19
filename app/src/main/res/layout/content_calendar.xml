@@ -12,17 +12,17 @@
     tools:context="com.ileja.calendar.CalendarActivity"
     tools:showIn="@layout/activity_calendar">
 
-    <Button
+    <android.support.v7.widget.AppCompatButton
         android:id="@+id/btnGetCalendar"
         android:layout_width="match_parent"
-        android:layout_height="40dp"
+        android:layout_height="@dimen/common_button_height"
         android:text="Get Calendar List"/>
 
-    <Button
+    <android.support.v7.widget.AppCompatButton
         android:id="@+id/btnGetEvent"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="80dp"
         android:layout_width="match_parent"
-        android:layout_height="40dp"
+        android:layout_height="@dimen/common_button_height"
         android:text="Get Event List"/>
 
 
